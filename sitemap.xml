@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2023-04-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+         
+    </url>
+    <url>
+         <loc>Nonetopic1/</loc>
+         <lastmod>2023-04-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/topic1/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/topic1/"/>
+         
+    </url>
+    <url>
+         <loc>Nonetopic2/</loc>
+         <lastmod>2023-04-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/topic2/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/topic2/"/>
+         
+    </url>
+</urlset>
